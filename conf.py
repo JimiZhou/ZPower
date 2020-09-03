@@ -21,7 +21,7 @@ enable_jsdelivr = {
 # 站点设置
 site_name = "ZPower"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2019-12-18T16:51+08:00"
+site_build_date = "2020-9-3T13:51+08:00"
 author = "ZZA"
 email = "ZZA@ZPower.ml"
 author_homepage = "https://www.zpower.ml"
