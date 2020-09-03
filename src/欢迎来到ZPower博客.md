@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is Z Power?
-slug: my-first-awesome-post
+slug: What is Z Power?
 date: 2020-9-3 20:34
 status: publish
 author: ZZA
