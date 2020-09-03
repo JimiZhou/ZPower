@@ -33,7 +33,7 @@ external_links = [
         "name": "Maverick",
         "url": "https://github.com/AlanDecode/Maverick",
         "brief": "🏄‍ Go My Own Way."
-    },
+    }
 ]
 nav = [
     {
