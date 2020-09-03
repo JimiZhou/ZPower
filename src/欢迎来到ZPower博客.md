@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is Z Power?
-slug: What is Z Power?
+slug: DogSunZJC
 date: 2020-9-3 20:34
 status: publish
 author: ZZA
