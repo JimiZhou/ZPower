@@ -26,7 +26,7 @@ author = "ZZA"
 email = "ZZA@ZPower.ml"
 author_homepage = "https://www.zpower.ml"
 description = "ZPower is life!"
-key_words = ['Maverick', 'ZPower', 'Z', 'blog']
+key_words = ['Maverick', 'ZPower', 'Z', 'Power']
 language = 'zh-CN'
 external_links = [
     {
