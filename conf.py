@@ -30,9 +30,9 @@ key_words = ['Maverick', 'ZPower', 'Z', 'Power']
 language = 'zh-CN'
 external_links = [
     {
-        "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
+        "name": "Weibo微博",
+        "url": "https://weibo.com/u/7491361046",
+        "brief": "ZPower官方微博"
     }
 ]
 nav = [
